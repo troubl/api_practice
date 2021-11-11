@@ -1,0 +1,19 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+log
+framework/__pycache__/
+sium/core/__pycache__/
+sium/utils/__pycache__/
+aium/data/__pycache__/
+aium/helper/__pycache__/
+*/.pytest_cache
+reports
+__pycache__/
+data/__pycache__/
+helper/__pycache__/
+pages/__pycache__/
+setting/__pycache__/
+sium/__pycache__/
+testcases/__pycache__/
+report/
+image/

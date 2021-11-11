@@ -1,0 +1,5 @@
+api_url: http://10.10.24.178:9502/
+
+database:
+    user: root
+    pwd: a123456
